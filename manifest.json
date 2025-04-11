@@ -1,0 +1,13 @@
+{
+    "name": "GoigyArsenal",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/royarchl/GTFO-GoigyArsenal",
+    "description": "A re-imagining of GTFO's weaponry for an unofficial speedrun category.",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.2.1",
+        "dakkhuza-MTFO-4.6.2",
+        "Flowaria-MTFO_Extension_PartialData-1.5.2",
+        "Dinorush-ExtraWeaponCustomization-3.2.0",
+        "tru0067-PierceBugFix-1.2.1",
+    ]
+}
