@@ -1,0 +1,65 @@
+[
+    {
+        "ArchetypeID": 103,
+        "Name": "Veruta",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.334,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 202,
+        "Name": "HEL Shotgun",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 0.1,
+                "BypassCap": false,
+                "OverrideWeakspotMulti": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 203,
+        "Name": "Scattergun",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 1.675,
+                "BypassCap": true,
+                "OverrideWeakspotMulti": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 204,
+        "Name": "Burst Cannon",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.5,
+                "ApplyOnDrop": false
+            },
+            {
+                "Name": "PierceMulti",
+                "PierceDamageMulti": 0.15,
+                "ModDamageType": "Bullet"
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 205,
+        "Name": "Sniper",
+        "Properties": [
+            {
+                "Name": "TumorMulti",
+                "TumorDamageMulti": 0.64,
+                "BypassCap": false,
+                "OverrideWeakspotMulti": false
+            }
+        ]
+    }
+]

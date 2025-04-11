@@ -1,0 +1,472 @@
+{
+    "Headers": [
+        {
+            "AboveBlockID": 10000,
+            "LabelText": "https://gtfo-modding.gitbook.io/wiki/guides/creating-custom-weapons#gearcategory"
+        },
+        {
+            "AboveBlockID": 100,
+            "LabelText": "Main"
+        },
+        {
+            "AboveBlockID": 200,
+            "LabelText": "Special"
+        },
+        {
+            "AboveBlockID": 300,
+            "LabelText": "Tool"
+        },
+        {
+            "AboveBlockID": 400,
+            "LabelText": "Melee"
+        },
+        {
+            "AboveBlockID": 500,
+            "LabelText": "Other"
+        }
+    ],
+    "Blocks": [
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 108,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.3,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 1,
+            "SemiArchetype": 101,
+            "BurstArchetype": 101,
+            "AutoArchetype": 101,
+            "SemiBurstArchetype": 101,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [
+                {
+                    "AlignType": 7,
+                    "PartPrio": [
+                        12
+                    ]
+                },
+                {
+                    "AlignType": 8,
+                    "PartPrio": [
+                        12
+                    ]
+                }
+            ],
+            "name": "RevolverHEL",
+            "internalEnabled": true,
+            "persistentID": 101
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 108,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.3,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 1,
+            "SemiArchetype": 102,
+            "BurstArchetype": 102,
+            "AutoArchetype": 102,
+            "SemiBurstArchetype": 102,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [
+                {
+                    "AlignType": 7,
+                    "PartPrio": [
+                        12
+                    ]
+                },
+                {
+                    "AlignType": 8,
+                    "PartPrio": [
+                        12
+                    ]
+                }
+            ],
+            "name": "Revolver",
+            "internalEnabled": true,
+            "persistentID": 102
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 108,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 103,
+            "BurstArchetype": 103,
+            "AutoArchetype": 103,
+            "SemiBurstArchetype": 103,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "MachinegunAuto",
+            "internalEnabled": true,
+            "persistentID": 103
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 108,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 104,
+            "BurstArchetype": 104,
+            "AutoArchetype": 104,
+            "SemiBurstArchetype": 104,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "DMRBurst",
+            "internalEnabled": true,
+            "persistentID": 104
+        },
+        {
+            "PublicName": 3,
+            "Description": 0,
+            "BaseItem": 108,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 105,
+            "BurstArchetype": 105,
+            "AutoArchetype": 105,
+            "SemiBurstArchetype": 105,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "RiflePrecision",
+            "internalEnabled": true,
+            "persistentID": 105
+        },
+        {
+            "PublicName": 4,
+            "Description": 0,
+            "BaseItem": 156,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 1,
+            "SemiArchetype": 106,
+            "BurstArchetype": 106,
+            "AutoArchetype": 106,
+            "SemiBurstArchetype": 106,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [
+                {
+                    "AlignType": 5,
+                    "PartPrio": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "name": "ShotgunSawedOff",
+            "internalEnabled": true,
+            "persistentID": 106
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 109,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.48,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 1,
+            "SemiArchetype": 201,
+            "BurstArchetype": 201,
+            "AutoArchetype": 201,
+            "SemiBurstArchetype": 201,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [
+                {
+                    "AlignType": 5,
+                    "PartPrio": [
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "name": "PistolAutoHEL",
+            "internalEnabled": true,
+            "persistentID": 201
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 110,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 202,
+            "BurstArchetype": 202,
+            "AutoArchetype": 202,
+            "SemiBurstArchetype": 202,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "ShotgunHEL",
+            "internalEnabled": true,
+            "persistentID": 202
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 110,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 203,
+            "BurstArchetype": 203,
+            "AutoArchetype": 203,
+            "SemiBurstArchetype": 203,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "ShotgunScatter",
+            "internalEnabled": true,
+            "persistentID": 203
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 109,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 204,
+            "BurstArchetype": 204,
+            "AutoArchetype": 204,
+            "SemiBurstArchetype": 204,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "MachinegunBurst",
+            "internalEnabled": true,
+            "persistentID": 204
+        },
+        {
+            "PublicName": 3,
+            "Description": 0,
+            "BaseItem": 109,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 205,
+            "BurstArchetype": 205,
+            "AutoArchetype": 205,
+            "SemiBurstArchetype": 205,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "Sniper",
+            "internalEnabled": true,
+            "persistentID": 205
+        },
+        {
+            "PublicName": 4,
+            "Description": 0,
+            "BaseItem": 109,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 206,
+            "BurstArchetype": 206,
+            "AutoArchetype": 206,
+            "SemiBurstArchetype": 206,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "RifleHEL",
+            "internalEnabled": true,
+            "persistentID": 206
+        },
+        {
+            "PublicName": "Bio Tracker",
+            "Description": 818,
+            "BaseItem": 28,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "Motion Tracker",
+            "internalEnabled": true,
+            "persistentID": 9
+        },
+        {
+            "PublicName": "C-Foam Launcher",
+            "Description": 819,
+            "BaseItem": 73,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "CFoamLauncher",
+            "internalEnabled": true,
+            "persistentID": 302
+        },
+        {
+            "PublicName": "Mine Deployer",
+            "Description": 820,
+            "BaseItem": 37,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "MineDeployer",
+            "internalEnabled": true,
+            "persistentID": 303
+        },
+        {
+            "PublicName": 0,
+            "Description": 0,
+            "BaseItem": 97,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 0,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "DeployableSentry",
+            "internalEnabled": true,
+            "persistentID": 12
+        },
+        {
+            "PublicName": 2145368856,
+            "Description": 822,
+            "BaseItem": 100,
+            "HUDIcon": "",
+            "IconRotationOffset": -90.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 2,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 1,
+            "PartAlignPriority": [],
+            "name": "MeleeSledgehammer",
+            "internalEnabled": true,
+            "persistentID": 401
+        },
+        {
+            "PublicName": 125546949,
+            "Description": 1408,
+            "BaseItem": 161,
+            "HUDIcon": "",
+            "IconRotationOffset": -90.0,
+            "IconZoomOffset": 0.2,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 4,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 2,
+            "PartAlignPriority": [],
+            "name": "MeleeKnife",
+            "internalEnabled": true,
+            "persistentID": 406
+        },
+        {
+            "PublicName": 4233525490,
+            "Description": 1409,
+            "BaseItem": 163,
+            "HUDIcon": "",
+            "IconRotationOffset": -90.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 4,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 4,
+            "PartAlignPriority": [],
+            "name": "MeleeBat",
+            "internalEnabled": true,
+            "persistentID": 408
+        },
+        {
+            "PublicName": 3901540528,
+            "Description": 1407,
+            "BaseItem": 162,
+            "HUDIcon": "",
+            "IconRotationOffset": -90.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 5,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 3,
+            "PartAlignPriority": [],
+            "name": "MeleeSpear",
+            "internalEnabled": true,
+            "persistentID": 410
+        },
+        {
+            "PublicName": "Hacking tool",
+            "Description": 0,
+            "BaseItem": 53,
+            "HUDIcon": "",
+            "IconRotationOffset": 0.0,
+            "IconZoomOffset": 0.0,
+            "FPSArmPoseName": "",
+            "ThirdPersonFullbodyMovement": 1,
+            "SemiArchetype": 0,
+            "BurstArchetype": 0,
+            "AutoArchetype": 0,
+            "SemiBurstArchetype": 0,
+            "MeleeArchetype": 0,
+            "PartAlignPriority": [],
+            "name": "HackingTool",
+            "internalEnabled": true,
+            "persistentID": 501
+        }
+    ],
+    "LastPersistentID": 42
+}
