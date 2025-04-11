@@ -1,6 +1,6 @@
 {
   "PublicName": 761,
-  "Description": "<size=16><#E70>Trades raw damage for faster TTK.\n\n<size=20><#FFF>Semi Automatic\nLow Damage\nShort Range\nOverpenetrating (3) Rounds",
+  "Description": "<size=16><#E70>Trades raw damage for amortized TTK.\n\n<size=20><#FFF>Semi Automatic\nLow Damage\nShort Range\nOverpenetrating (3) Rounds",
   "FireMode": 1,
   "RecoilDataID": 22,
   "DamageBoosterEffect": 56,
