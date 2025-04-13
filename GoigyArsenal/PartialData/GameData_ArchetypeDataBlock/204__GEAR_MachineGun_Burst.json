@@ -1,5 +1,5 @@
 {
-  "PublicName": 739,
+  "PublicName": "Auto Cannon",
   "Description": "<size=16><#E70>Heavy sustained-fire for crowds of bigs.\n\n<size=20><#FFF>Fully Automatic\nMedium Damage\nMedium Range\nHigh Capacity Magazine\nLong Charge-Up\nLow Firerate\nOverpenetrating (3) Rounds<#808080>*\n\n<size=10>* Reduced (0.15x) Damage Per Collat",
   "FireMode": 2,
   "RecoilDataID": 24,

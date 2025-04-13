@@ -1,5 +1,27 @@
 [
     {
+        "ArchetypeID": 101,
+        "Name": "HEL Revolver",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.367,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 102,
+        "Name": "Revolver",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.354,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
         "ArchetypeID": 103,
         "Name": "Veruta",
         "Properties": [
@@ -11,12 +33,61 @@
         ]
     },
     {
+        "ArchetypeID": 104,
+        "Name": "Tap Rifle",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.375,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 105,
+        "Name": "Precision Rifle",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.389,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 106,
+        "Name": "Sawed Off",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.347,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 201,
+        "Name": "HEL Autopistol",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.364,
+                "ApplyOnDrop": false
+            }
+        ]
+    },
+    {
         "ArchetypeID": 202,
         "Name": "HEL Shotgun",
         "Properties": [
             {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.4,
+                "ApplyOnDrop": false
+            },
+            {
                 "Name": "TumorMulti",
-                "TumorDamageMulti": 0.1,
+                "TumorDamageMulti": 0.5,
                 "BypassCap": false,
                 "OverrideWeakspotMulti": false
             }
@@ -26,6 +97,11 @@
         "ArchetypeID": 203,
         "Name": "Scattergun",
         "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.5,
+                "ApplyOnDrop": false
+            },
             {
                 "Name": "TumorMulti",
                 "TumorDamageMulti": 1.675,
@@ -55,10 +131,26 @@
         "Name": "Sniper",
         "Properties": [
             {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.5,
+                "ApplyOnDrop": false
+            },
+            {
                 "Name": "TumorMulti",
                 "TumorDamageMulti": 0.64,
                 "BypassCap": false,
                 "OverrideWeakspotMulti": false
+            }
+        ]
+    },
+    {
+        "ArchetypeID": 206,
+        "Name": "HEL Rifle",
+        "Properties": [
+            {
+                "Name": "AmmoCap",
+                "AmmopackRefillRel": 0.417,
+                "ApplyOnDrop": false
             }
         ]
     }

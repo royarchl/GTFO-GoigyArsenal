@@ -1,6 +1,6 @@
 {
   "PublicName": 759,
-  "Description": "<size=16><#E70>Body-shot kills strikers. Two-shots chargers.\n\n<size=20><#FFF>Semi Automatic\nMedium Damage\nShort Range\nHeavy Recoil",
+  "Description": "<size=16><#E70>One bullet should be enough.\n\n<size=20><#FFF>Semi Automatic\nMedium Damage\nShort Range\nHeavy Recoil",
   "FireMode": 0,
   "RecoilDataID": 47,
   "DamageBoosterEffect": 59,
@@ -27,7 +27,7 @@
   "PrecisionDamageMulti": 0.3185,
   "DefaultClipSize": 6,
   "DefaultReloadTime": 2.5,
-  "CostOfBullet": 10.9,
+  "CostOfBullet": 4.79,
   "ShotDelay": 0.45,
   "ShellCasingSize": 1.0,
   "ShellCasingSpeedRange": {
