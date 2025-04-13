@@ -354,7 +354,7 @@
             "persistentID": 303
         },
         {
-            "PublicName": 0,
+            "PublicName": "Sentry Gun",
             "Description": 0,
             "BaseItem": 97,
             "HUDIcon": "",
@@ -367,7 +367,20 @@
             "AutoArchetype": 0,
             "SemiBurstArchetype": 0,
             "MeleeArchetype": 0,
-            "PartAlignPriority": [],
+            "PartAlignPriority": [
+                {
+                    "AlignType": 7,
+                    "PartPrio": [
+                        27
+                    ]
+                },
+                {
+                    "AlignType": 8,
+                    "PartPrio": [
+                        27
+                    ]
+                }
+            ],
             "name": "DeployableSentry",
             "internalEnabled": true,
             "persistentID": 12
