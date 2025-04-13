@@ -2,7 +2,7 @@ This mod changes the default weaponry of GTFO to have better specialization. Thi
 <br><br>
 
 > [!NOTE]
-> Some values are missing. I've not yet decided on them. 
+> Some values are missing. I've not yet decided on them.
 
 <br>
 
@@ -11,7 +11,7 @@ This mod changes the default weaponry of GTFO to have better specialization. Thi
 #### <ins>Main</ins>
 <strong>Hel Revolver</strong> &nbsp; $${\color{Apricot}"Nightshade"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>38__GEAR_Revolver_HEL</code><br>
 ```
-Max ammo  92 >>> 81
+Max ammo  92 >>> 99
 Magazine size  8 >>> 9
 Damage  8.01 >>> 7.55
 Precision mult  0.7413x >>> 0.6413x
@@ -23,7 +23,7 @@ Pierce  2 >>> 3
 
 <strong>Revolver</strong> &nbsp; $${\color{Apricot}"Dead \space Eye"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>37__GEAR_Revolver_Semi_v2</code><br>
 ```
-Max ammo  52 >>> 48
+Max ammo  52 >>> 102
 Damage  14.21 >>> 20.1
 Precision mult  0.7413x >>> 0.3185x
 Reload time  1.75s >>> 2.5s
@@ -47,9 +47,10 @@ Falloff  15–80m >>> 10–30m
 <strong>Double-Tap Rifle</strong> &nbsp; $${\color{Apricot}"Tao"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>26__GEAR_DMR_Burst</code><br>
 ```
 Fire mode  1 >>> 2  [Burst >>> Auto]
-Max ammo  135 >>> 144
+Max ammo  135 >>> 216
 Mag size  14 >>> 24
 Precision mult  0.9x >>> 0.88x
+Shot delay  0.08 >>> 0.2
 Falloff  40–80m >>> 30–60m
 Scope  18 >>> 45
 Receiver  2 >>> 6
@@ -58,9 +59,9 @@ Receiver  2 >>> 6
 
 <strong>Precision Rifle</strong> &nbsp; $${\color{Apricot}"Bravo \space Six"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>79__GEAR_Precision_Rifle</code><br>
 ```
-Max ammo  51 >>> ? (more)
+Max ammo  51 >>> 84
 Magazine size  10 >>> 12
-Damage  13 >>> 6.75
+Damage  13 >>> 11
 Reload time  3.3s >>> 2.2s
 Falloff  30–70m >>> 30—60m
 ```
@@ -68,7 +69,7 @@ Falloff  30–70m >>> 30—60m
 
 <strong>Sawed-Off</strong> &nbsp; $${\color{Apricot}"Boomstick"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>45__GEAR_Sawed-Off_Shotgun_Semi</code><br>
 ```
-Max ammo  45 >>> ?
+Max ammo  45 >>> 78
 Magazine size  4 >>> 3
 Pellet count  8 >>> 6
 Damage  30.4 >>> 30.6  [dmg/pellet  3.8 >>> 5.1]
@@ -81,6 +82,7 @@ Falloff  6–40m >>> 8–30m
 #### <ins>Special</ins>
 <strong>HEL Autopistol</strong> &nbsp; $${\color{Apricot}"McTickler"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>66__GEAR_Pistol_Auto_Staggering_HEL</code><br>
 ```
+Max ammo  260 >>> 360
 Magazine size  60 >>> 30
 Damage  1.5 >>> 1.05
 Stagger mult  5x >>> 6x
@@ -95,9 +97,9 @@ Pierce  2 >>> 3
 Max ammo  97 >>> 48
 Magazine size  14 >>> 8
 Pellet count  8 >>> 16
-Damage  13.36 >>> 181.44  [dmg/pellet  1.67 >>> 5.67]
+Damage  13.36 >>> 30.08  [dmg/pellet  1.67 >>> 0.94]
 Stagger mult  2x >>> 1x
-Tumor mult  1x >>> 0.05x
+Tumor mult  1x >>> 0.5x
 Shotgun cone  4 >>> 7
 Falloff  4–40m >>> 4–30m
 Reload time  3s >>> 3.2s
@@ -155,7 +157,7 @@ Falloff  60–100m >>> 60–90m
 
 <strong>HEL Rifle</strong> &nbsp; $${\color{Apricot}"Beezooka"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>65__GEAR_HEL_Rifle_semi</code><br>
 ```
-Max ammo  28 >>> 12
+Max ammo  28 >>> 15
 Magazine size  5 >>> 3
 Precision mult  0.73x >>> 0.64x
 Reload time  3.2s >>> 3.0s
