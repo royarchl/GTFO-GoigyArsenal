@@ -6,7 +6,7 @@
   "DamageBoosterEffect": 60,
   "Damage": 11,
   "DamageFalloff": {
-    "x": 30.0,
+    "x": 40.0,
     "y": 60.0,
     "normalized": {
       "x": 0.3939193,

@@ -68,7 +68,7 @@
   "AimSequence": [],
   "BurstDelay": 0.0,
   "BurstShotCount": 0,
-  "ShotgunBulletCount": 16,
+  "ShotgunBulletCount": 32,
   "ShotgunConeSize": 7,
   "ShotgunBulletSpread": 3,
   "SpecialChargetupTime": 0.0,
