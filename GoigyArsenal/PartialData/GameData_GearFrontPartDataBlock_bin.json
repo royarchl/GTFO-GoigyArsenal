@@ -1337,10 +1337,6 @@
                     "StringData": "cannon_reload_mag_in"
                 },
                 {
-                    "TriggerTime": 1.6,
-                    "Type": 6
-                },
-                {
                     "TriggerTime": 2.0,
                     "Type": 5,
                     "StringData": "generic_reload_foley_subtle"
@@ -1359,6 +1355,10 @@
                     "TriggerTime": 2.7,
                     "Type": 5,
                     "StringData": "carbine_reload_5_release_slide"
+                },
+                {
+                    "TriggerTime": 2.7,
+                    "Type": 6
                 },
                 {
                     "TriggerTime": 2.95,
