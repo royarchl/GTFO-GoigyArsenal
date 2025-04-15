@@ -71,7 +71,7 @@
   "ShotgunBulletCount": 0,
   "ShotgunConeSize": 0,
   "ShotgunBulletSpread": 0,
-  "Special5hargetupTime": 0.3,
+  "SpecialChargetupTime": 0.3,
   "SpecialCooldownTime": 0.0,
   "SpecialSemiBurstCountTimeout": 0.0,
   "Sentry_StartFireDelay": 1.0,
