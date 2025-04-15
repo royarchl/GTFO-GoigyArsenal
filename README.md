@@ -63,7 +63,7 @@ Max ammo  51 >>> 84
 Magazine size  10 >>> 12
 Damage  13 >>> 11
 Reload time  3.3s >>> 2.2s
-Falloff  30–70m >>> 30—60m
+Falloff  30–70m >>> 40—60m
 ```
 <br>
 
@@ -96,7 +96,7 @@ Pierce  2 >>> 3
 ```
 Max ammo  97 >>> 48
 Magazine size  14 >>> 8
-Pellet count  8 >>> 16
+Pellet count  8 >>> 32
 Damage  13.36 >>> 30.08  [dmg/pellet  1.67 >>> 0.94]
 Stagger mult  2x >>> 1x
 Tumor mult  1x >>> 0.5x
@@ -125,12 +125,12 @@ Falloff  4–30m
 <strong>Burst Cannon</strong> &nbsp; $${\color{Apricot}"Emperor's \space Light"}$$ &nbsp;&nbsp;&nbsp;&nbsp; <code>22__GEAR_MachineGun_Burst</code><br>
 ```
 Fire mode  1 >>> 2  [Burst >>> Auto]
-Max ammo  66 >>> 75
-Magazine size  20 >>> 25
+Max ammo  66 >>> 60
 Shot delay  0.3s >>> 0.8s
 Damage  22 >>> 29.3
 Stagger mult  1x >>> 1.5x
 Charge time  0.7s >>> 1.2s
+Reload time  3.7s >>> 6.0s
 Audio setting  43 >>> 46
 Piercing  1 >>> 3
 Pierce mult  1 >>> 0.15
