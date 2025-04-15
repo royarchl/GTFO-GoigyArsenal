@@ -112,7 +112,7 @@
     },
     {
         "ArchetypeID": 204,
-        "Name": "Burst Cannon",
+        "Name": "Auto Cannon",
         "Properties": [
             {
                 "Name": "AmmoCap",
