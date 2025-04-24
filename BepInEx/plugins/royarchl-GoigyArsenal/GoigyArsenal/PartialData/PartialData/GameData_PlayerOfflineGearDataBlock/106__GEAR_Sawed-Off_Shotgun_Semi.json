@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Boomstick\",\"Packet\":{\"Comps\":{\"Length\":14,\"a\":{\"c\":2,\"v\":106},\"b\":{\"c\":3,\"v\":156},\"c\":{\"c\":4,\"v\":20},\"d\":{\"c\":5,\"v\":37},\"e\":{\"c\":6,\"v\":4},\"f\":{\"c\":8,\"v\":17},\"g\":{\"c\":9,\"v\":5},\"h\":{\"c\":10,\"v\":18},\"i\":{\"c\":11,\"v\":18},\"j\":{\"c\":12,\"v\":47},\"k\":{\"c\":16,\"v\":22},\"l\":{\"c\":19,\"v\":21},\"m\":{\"c\":25,\"v\":3}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.51,\"y\":-0.05,\"normalized\":{\"x\":0.9952285,\"y\":-0.09757143,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.5124451,\"sqrMagnitude\":0.2626},\"scale\":0.3},\"tDecalB\":{\"position\":{\"x\":0.5,\"y\":-0.07,\"normalized\":{\"x\":0.9903418,\"y\":-0.138647854,\"magnitude\":1.0,\"sqrMagnitude\":1.00000012},\"magnitude\":0.5048762,\"sqrMagnitude\":0.2549},\"scale\":0.3},\"tPattern\":{\"angle\":-90.0,\"scale\":0.3}},\"publicName\":{\"data\":\"Buckland SBS III\"}}}",
+    "name": "ShotgunShort404",
+    "internalEnabled": true,
+    "persistentID": 106
+}

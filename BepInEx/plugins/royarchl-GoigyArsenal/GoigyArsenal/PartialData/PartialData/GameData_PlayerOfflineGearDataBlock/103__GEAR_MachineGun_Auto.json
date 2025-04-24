@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Freedom\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":2},\"b\":{\"c\":2,\"v\":103},\"c\":{\"c\":3,\"v\":108},\"d\":{\"c\":4,\"v\":3},\"e\":{\"c\":5,\"v\":39},\"f\":{\"c\":6,\"v\":33},\"g\":{\"c\":7,\"v\":3},\"h\":{\"c\":8,\"v\":10},\"i\":{\"c\":9,\"v\":10},\"j\":{\"c\":10,\"v\":13},\"k\":{\"c\":11,\"v\":14},\"l\":{\"c\":12,\"v\":10301},\"m\":{\"c\":16,\"v\":6},\"n\":{\"c\":19,\"v\":3},\"o\":{\"c\":21,\"v\":5},\"p\":{\"c\":23,\"v\":7},\"q\":{\"c\":25,\"v\":6}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.1,\"y\":0.02},\"angle\":180.0,\"scale\":0.4},\"tDecalB\":{\"position\":{\"x\":-0.07,\"y\":0.03},\"angle\":-90.0,\"scale\":0.05},\"tPattern\":{\"angle\":-90.0,\"scale\":0.1}},\"publicName\":{\"data\":\"TechMan Veruta XII\"}}}",
+    "name": "MachinegunAuto404",
+    "internalEnabled": true,
+    "persistentID": 103
+}

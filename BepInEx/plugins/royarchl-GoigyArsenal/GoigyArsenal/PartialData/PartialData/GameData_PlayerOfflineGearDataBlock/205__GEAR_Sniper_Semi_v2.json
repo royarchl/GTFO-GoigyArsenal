@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Must Have Been The Wind\",\"Packet\":{\"Comps\":{\"Length\":17,\"a\":{\"c\":2,\"v\":205},\"b\":{\"c\":3,\"v\":109},\"c\":{\"c\":4,\"v\":5},\"d\":{\"c\":5,\"v\":36},\"e\":{\"c\":6,\"v\":36},\"f\":{\"c\":7,\"v\":5},\"g\":{\"c\":8,\"v\":18},\"h\":{\"c\":9,\"v\":10},\"i\":{\"c\":10,\"v\":27},\"j\":{\"c\":11,\"v\":15},\"k\":{\"c\":12,\"v\":21},\"l\":{\"c\":16,\"v\":9},\"m\":{\"c\":19,\"v\":11},\"n\":{\"c\":21,\"v\":46},\"o\":{\"c\":23,\"v\":13},\"p\":{\"c\":25,\"v\":4}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.04,\"y\":0.04,\"normalized\":{\"x\":0.707106769,\"y\":0.707106769,\"magnitude\":1.0,\"sqrMagnitude\":0.99999994},\"magnitude\":0.05656854,\"sqrMagnitude\":0.0032},\"scale\":0.08},\"tDecalB\":{\"position\":{\"x\":0.48,\"normalized\":{\"x\":1.0,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.48,\"sqrMagnitude\":0.2304},\"scale\":0.3},\"tPattern\":{\"position\":{\"y\":0.04,\"normalized\":{\"y\":1.0,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.04,\"sqrMagnitude\":0.0016},\"angle\":-90.0,\"scale\":0.2}},\"publicName\":{\"data\":\"Köning PR 11\"}}}",
+    "name": "SniperSemi404",
+    "internalEnabled": true,
+    "persistentID": 205
+}

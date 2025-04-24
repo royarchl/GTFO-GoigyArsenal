@@ -1,0 +1,20 @@
+{
+    "datablock": "GearCategory",
+    "PublicName": 0,
+    "Description": 0,
+    "BaseItem": 110,
+    "HUDIcon": "",
+    "IconRotationOffset": 0.0,
+    "IconZoomOffset": 0.0,
+    "FPSArmPoseName": "",
+    "ThirdPersonFullbodyMovement": 0,
+    "SemiArchetype": 203,
+    "BurstArchetype": 203,
+    "AutoArchetype": 203,
+    "SemiBurstArchetype": 203,
+    "MeleeArchetype": 0,
+    "PartAlignPriority": [],
+    "name": "ShotgunScatter404",
+    "internalEnabled": true,
+    "persistentID": 203
+}

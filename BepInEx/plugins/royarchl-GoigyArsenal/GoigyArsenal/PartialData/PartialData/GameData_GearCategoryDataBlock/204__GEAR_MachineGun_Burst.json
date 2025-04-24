@@ -1,0 +1,20 @@
+{
+    "datablock": "GearCategory",
+    "PublicName": 0,
+    "Description": 0,
+    "BaseItem": 109,
+    "HUDIcon": "",
+    "IconRotationOffset": 0.0,
+    "IconZoomOffset": 0.0,
+    "FPSArmPoseName": "",
+    "ThirdPersonFullbodyMovement": 0,
+    "SemiArchetype": 204,
+    "BurstArchetype": 204,
+    "AutoArchetype": 204,
+    "SemiBurstArchetype": 204,
+    "MeleeArchetype": 0,
+    "PartAlignPriority": [],
+    "name": "MachinegunBurst404",
+    "internalEnabled": true,
+    "persistentID": 204
+}

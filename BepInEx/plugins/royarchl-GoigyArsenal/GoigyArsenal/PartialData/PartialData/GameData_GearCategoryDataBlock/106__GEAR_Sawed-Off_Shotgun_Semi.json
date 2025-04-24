@@ -1,0 +1,28 @@
+{
+    "datablock": "GearCategory",
+    "PublicName": 4,
+    "Description": 0,
+    "BaseItem": 156,
+    "HUDIcon": "",
+    "IconRotationOffset": 0.0,
+    "IconZoomOffset": 0.0,
+    "FPSArmPoseName": "",
+    "ThirdPersonFullbodyMovement": 1,
+    "SemiArchetype": 106,
+    "BurstArchetype": 106,
+    "AutoArchetype": 106,
+    "SemiBurstArchetype": 106,
+    "MeleeArchetype": 0,
+    "PartAlignPriority": [
+        {
+            "AlignType": 5,
+            "PartPrio": [
+                2,
+                4
+            ]
+        }
+    ],
+    "name": "ShotgunSawedOff404",
+    "internalEnabled": true,
+    "persistentID": 106
+}

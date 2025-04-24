@@ -1,0 +1,33 @@
+{
+    "datablock": "GearCategory",
+    "PublicName": 0,
+    "Description": 0,
+    "BaseItem": 108,
+    "HUDIcon": "",
+    "IconRotationOffset": 0.0,
+    "IconZoomOffset": 0.3,
+    "FPSArmPoseName": "",
+    "ThirdPersonFullbodyMovement": 1,
+    "SemiArchetype": 101,
+    "BurstArchetype": 101,
+    "AutoArchetype": 101,
+    "SemiBurstArchetype": 101,
+    "MeleeArchetype": 0,
+    "PartAlignPriority": [
+        {
+            "AlignType": 7,
+            "PartPrio": [
+                12
+            ]
+        },
+        {
+            "AlignType": 8,
+            "PartPrio": [
+                12
+            ]
+        }
+    ],
+    "name": "RevolverHEL404",
+    "internalEnabled": true,
+    "persistentID": 101
+}

@@ -1,0 +1,131 @@
+{
+    "datablock": "GearFrontPart",
+    "General": {
+        "Model": "Assets/AssetPrefabs/Items/Gear/Parts/Fronts/Front_Revolver_1_GripAlign.prefab",
+        "Children": [],
+        "GearCategoryFilter": 0,
+        "LeftHandGripAnim": "Front_Revolver_1",
+        "RightHandGripAnim": "Front_Revolver_1",
+        "AssetBundle": 20,
+        "BundleShard": 1
+    },
+    "Aligns": [
+        {
+            "AlignType": 0,
+            "AlignName": "Front_M"
+        },
+        {
+            "AlignType": 1,
+            "AlignName": "Front_SE"
+        },
+        {
+            "AlignType": 2,
+            "AlignName": "Front_Mag"
+        },
+        {
+            "AlignType": 5,
+            "AlignName": "Front_Flash"
+        },
+        {
+            "AlignType": 7,
+            "AlignName": "LeftHand"
+        },
+        {
+            "AlignType": 6,
+            "AlignName": "Sight_Align"
+        },
+        {
+            "AlignType": 8,
+            "AlignName": "RightHand"
+        }
+    ],
+    "FireSequence": [
+        {
+            "TriggerTime": 0.0,
+            "Type": 1,
+            "StringData": "Front_Revolver_1_fire"
+        },
+        {
+            "TriggerTime": 0.0,
+            "Type": 8,
+            "StringData": "Stock_Revolver_1_fire"
+        },
+        {
+            "TriggerTime": 0.2,
+            "Type": 7
+        }
+    ],
+    "ReloadSequence": [
+        {
+            "TriggerTime": 0.0,
+            "Type": 0,
+            "StringData": "Revolver_Front_1_Reload"
+        },
+        {
+            "TriggerTime": 0.0,
+            "Type": 4,
+            "StringData": "Front_Revolver_1_reload"
+        },
+        {
+            "TriggerTime": 0.0,
+            "Type": 1,
+            "StringData": "Front_Revolver_1_reload"
+        },
+        {
+            "TriggerTime": 0.0,
+            "Type": 2,
+            "StringData": "Front_Revolver_1_reload"
+        },
+        {
+            "TriggerTime": 0.0,
+            "Type": 5,
+            "StringData": "generic_reload_foley_quick"
+        },
+        {
+            "TriggerTime": 0.1,
+            "Type": 5,
+            "StringData": "revolver_open"
+        },
+        {
+            "TriggerTime": 0.2,
+            "Type": 5,
+            "StringData": "revolver_reload_foley"
+        },
+        {
+            "TriggerTime": 0.5,
+            "Type": 5,
+            "StringData": "revolver_reload_grab_mag"
+        },
+        {
+            "TriggerTime": 0.8,
+            "Type": 5,
+            "StringData": "revolver_mag_in"
+        },
+        {
+            "TriggerTime": 1.35,
+            "Type": 5,
+            "StringData": "revolver_close"
+        },
+        {
+            "TriggerTime": 1.4,
+            "Type": 6
+        },
+        {
+            "TriggerTime": 1.5,
+            "Type": 5,
+            "StringData": "revolver_reload_foley"
+        },
+        {
+            "TriggerTime": 1.55,
+            "Type": 5,
+            "StringData": "generic_reload_grab_heavy_weapon"
+        },
+        {
+            "TriggerTime": 2.0,
+            "Type": 7
+        }
+    ],
+    "name": "Front_Revolver_1404",
+    "internalEnabled": true,
+    "persistentID": 10201
+}

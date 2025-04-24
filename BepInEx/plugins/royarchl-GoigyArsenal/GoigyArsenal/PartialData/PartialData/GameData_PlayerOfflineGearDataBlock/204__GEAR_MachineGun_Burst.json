@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Emperor's Light\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":1},\"b\":{\"c\":2,\"v\":204},\"c\":{\"c\":3,\"v\":109},\"d\":{\"c\":4,\"v\":3},\"e\":{\"c\":5,\"v\":46},\"f\":{\"c\":6,\"v\":33},\"g\":{\"c\":7,\"v\":3},\"h\":{\"c\":8,\"v\":18},\"i\":{\"c\":9,\"v\":8},\"j\":{\"c\":10,\"v\":27},\"k\":{\"c\":11,\"v\":26},\"l\":{\"c\":12,\"v\":27},\"m\":{\"c\":16,\"v\":11},\"n\":{\"c\":19,\"v\":8},\"o\":{\"c\":21,\"v\":4},\"p\":{\"c\":23,\"v\":16},\"q\":{\"c\":25,\"v\":6}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":-0.05,\"y\":0.01},\"scale\":0.1},\"tDecalB\":{\"position\":{\"x\":-0.05,\"y\":0.01},\"scale\":0.1},\"tPattern\":{\"position\":{\"x\":0.17,\"y\":0.05},\"angle\":-135.0,\"scale\":0.2}},\"publicName\":{\"data\":\"TechMan Klust 6\"}}}",
+    "name": "MachinegunBurst404",
+    "internalEnabled": true,
+    "persistentID": 204
+}

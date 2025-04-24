@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Dead Eye\",\"Packet\":{\"Comps\":{\"Length\":14,\"a\":{\"c\":2,\"v\":102},\"b\":{\"c\":3,\"v\":108},\"c\":{\"c\":4,\"v\":7},\"d\":{\"c\":5,\"v\":29},\"e\":{\"c\":6,\"v\":29},\"f\":{\"c\":8,\"v\":7},\"g\":{\"c\":9,\"v\":14},\"h\":{\"c\":10,\"v\":20},\"i\":{\"c\":11,\"v\":35},\"j\":{\"c\":12,\"v\":10201},\"k\":{\"c\":16,\"v\":16},\"l\":{\"c\":19,\"v\":14},\"m\":{\"c\":25,\"v\":2}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.17,\"y\":0.02},\"scale\":0.06},\"tDecalB\":{\"position\":{\"x\":0.17,\"y\":-0.015},\"scale\":0.2},\"tPattern\":{\"position\":{\"x\":0.24,\"y\":0.0},\"scale\":0.5}},\"publicName\":{\"data\":\"Mastaba R66\"}}}",
+    "name": "RevolverSemi404",
+    "internalEnabled": true,
+    "persistentID": 102
+}

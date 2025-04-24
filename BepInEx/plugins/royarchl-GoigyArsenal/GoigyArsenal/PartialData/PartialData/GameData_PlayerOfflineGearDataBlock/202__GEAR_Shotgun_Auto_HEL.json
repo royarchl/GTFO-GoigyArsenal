@@ -1,0 +1,8 @@
+{
+    "datablock": "PlayerOfflineGear",
+    "Type": 1,
+    "GearJSON": "{\"Ver\":1,\"Name\":\"Removing That Direction\",\"Packet\":{\"Comps\":{\"Length\":18,\"a\":{\"c\":1,\"v\":2},\"b\":{\"c\":2,\"v\":202},\"c\":{\"c\":3,\"v\":110},\"d\":{\"c\":4,\"v\":46},\"e\":{\"c\":5,\"v\":50},\"f\":{\"c\":6,\"v\":4},\"g\":{\"c\":7,\"v\":4},\"h\":{\"c\":8,\"v\":17},\"i\":{\"c\":9,\"v\":5},\"j\":{\"c\":10,\"v\":18},\"k\":{\"c\":11,\"v\":18},\"l\":{\"c\":12,\"v\":32},\"m\":{\"c\":16,\"v\":12},\"n\":{\"c\":19,\"v\":10},\"o\":{\"c\":21,\"v\":11},\"p\":{\"c\":23,\"v\":9},\"q\":{\"c\":25,\"v\":5}},\"MatTrans\":{\"tDecalA\":{\"position\":{\"x\":0.51,\"y\":-0.05,\"normalized\":{\"x\":0.9952285,\"y\":-0.09757143,\"magnitude\":1.0,\"sqrMagnitude\":1.0},\"magnitude\":0.5124451,\"sqrMagnitude\":0.2626},\"scale\":0.3},\"tDecalB\":{\"position\":{\"x\":0.5,\"y\":-0.07,\"normalized\":{\"x\":0.9903418,\"y\":-0.138647854,\"magnitude\":1.0,\"sqrMagnitude\":1.00000012},\"magnitude\":0.5048762,\"sqrMagnitude\":0.2549},\"scale\":0.3},\"tPattern\":{\"angle\":-90.0,\"scale\":0.3}},\"publicName\":{\"data\":\"Bataldo J 300\"}}}",
+    "name": "ShotgunHEL404",
+    "internalEnabled": true,
+    "persistentID": 202
+}

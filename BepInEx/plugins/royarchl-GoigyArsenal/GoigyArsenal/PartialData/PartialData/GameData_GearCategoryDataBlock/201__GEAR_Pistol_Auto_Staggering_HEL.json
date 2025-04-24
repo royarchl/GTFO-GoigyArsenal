@@ -1,0 +1,28 @@
+{
+    "datablock": "GearCategory",
+    "PublicName": 0,
+    "Description": 0,
+    "BaseItem": 109,
+    "HUDIcon": "",
+    "IconRotationOffset": 0.0,
+    "IconZoomOffset": 0.48,
+    "FPSArmPoseName": "",
+    "ThirdPersonFullbodyMovement": 1,
+    "SemiArchetype": 201,
+    "BurstArchetype": 201,
+    "AutoArchetype": 201,
+    "SemiBurstArchetype": 201,
+    "MeleeArchetype": 0,
+    "PartAlignPriority": [
+        {
+            "AlignType": 5,
+            "PartPrio": [
+                2,
+                4
+            ]
+        }
+    ],
+    "name": "PistolAutoHEL404",
+    "internalEnabled": true,
+    "persistentID": 201
+}
