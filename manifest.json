@@ -1,6 +1,6 @@
 {
     "name": "GoigyArsenal",
-    "version_number": "1.0.3",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/royarchl/GTFO-GoigyArsenal",
     "description": "A re-imagining of GTFO's weaponry for an unofficial speedrun category.",
     "dependencies": [
